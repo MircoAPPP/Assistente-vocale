@@ -1,0 +1,6 @@
+requisiti
+python
+
+SpeechRecognition (comando per installarlo pip install SeechRecognition pyttsx3)
+
+pyaudio (comando per installarlo pip instal pyaudio)
