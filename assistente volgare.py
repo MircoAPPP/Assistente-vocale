@@ -30,7 +30,7 @@ elif testo.startswith(("cosa", "come", "quanto")):
 elif "mirko con la c" in testo:
         risposta= "mircoappp è il mio creatore"
 elif "versione" in testo:
-        risposta= "sono alla versione 0.0.1"
+        risposta= "sono alla versione beta della beta della beta"
 elif "rick roll" in testo:
         webbrowser.open("https://bit.ly/3y21yk1")
         risposta= "never gona give you up"
