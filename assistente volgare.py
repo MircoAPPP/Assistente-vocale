@@ -48,7 +48,7 @@ elif "ninna nanna ninna o" in testo:
     risposta= "tre mitra sul comò ops ho sbagliato canzone"
 elif "sorpresa" in testo:
     risposta="hai trovato una sorpresa ora sei capo della nasa haha stavo scherzando non lo sarai mai"
-elif "battuta" in testo:
+elif "dimmi una battuta" in testo:
     risposta= "non mi stufare che stavo dormendo chiedi ad alexa o a google"
 elif "corna" in testo:
     webbrowser.open("https://www.youtube.com/watch?v=_caMQpiwiaU&ab_channel=schmoyoho")

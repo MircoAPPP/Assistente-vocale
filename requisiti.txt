@@ -1,6 +1,11 @@
-requisiti
-python
+Requisiti:
 
-SpeechRecognition (comando per installarlo pip install SpeechRecognition pyttsx3)
+Python 
 
-pyaudio (comando per installarlo pip instal pyaudio)
+Librerie dy python:
+
+pip install SpeechRecognition pyttsx3
+
+pip install pyaudio
+
+(Dovrebbe funzionare anche da macOS (Non ci ho provato))
