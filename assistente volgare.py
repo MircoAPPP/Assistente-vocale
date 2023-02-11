@@ -65,7 +65,7 @@ elif "per" in testo:
     risposta= "non fare operazzioni di matematica se non le sai fare neache te, lasciami in pace"
 elif "diviso" in testo:
     risposta= "non fare operazzioni di matematica se non le sai fare neache te, lasciami in pace"
-elif "deruba un razzo della nasa" in testo:
+elif "razzo della nasa" in testo:
     risposta= "aspetta          ok arriverà martedì"
 elif "non trovo il libro" in testo:
     risposta= "intendi quello che ho lanciato dal tetto?"
