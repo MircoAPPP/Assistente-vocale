@@ -1,7 +1,7 @@
 Comandi:
 
 
-Ricetta (Puo non funzionare)
+Ricetta
 
 Che ore sono?
 
@@ -44,4 +44,4 @@ Deruba un razzo dalla nasa
 
 Non trovo il libro
 
-Lunghezza
+Lunghezza (Preparatevi delle nuove cuffie)
